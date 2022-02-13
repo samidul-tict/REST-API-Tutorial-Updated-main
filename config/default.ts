@@ -1,6 +1,6 @@
 export default {
   port: 1337,
-  dbUri: "mongodb+srv://compass_app:KhSt5ehn78WmPs@cluster0.xjqge.mongodb.net/test",
+  dbUri: "mongodb+srv://test/test",
   saltWorkFactor: 10,
   accessTokenTtl: "60m",
   refreshTokenTtl: "1y",
